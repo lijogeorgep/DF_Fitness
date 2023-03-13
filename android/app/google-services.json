@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500214043128",
+    "project_id": "darkfightfitness-4147f",
+    "storage_bucket": "darkfightfitness-4147f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500214043128:android:13b851ea520d93c127860d",
+        "android_client_info": {
+          "package_name": "com.example.df_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500214043128-fopcu1t3mhqt5pet7tkdgbf9fcevghnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCssTK0iYC7xOPzpkYsb9yO8W4mF1_QvIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500214043128-fopcu1t3mhqt5pet7tkdgbf9fcevghnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
